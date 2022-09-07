@@ -1,3 +1,4 @@
 # Excel-Project-Bike-Store-Dashboard
 
-![Excel Bike Store](https://user-images.githubusercontent.com/112380016/188094672-6bf1188e-cd87-4acc-8218-3f0282aad89a.png)
+![excel-dashboard](https://user-images.githubusercontent.com/112380016/188890089-4e937621-41e9-4688-88fb-7efca94eec27.gif)
+
